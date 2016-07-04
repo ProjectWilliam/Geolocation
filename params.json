@@ -1,0 +1,6 @@
+{
+  "name": "Geolocation",
+  "tagline": "Geolocation service top-level program used to calculate RTT of pings from a central coordinator (hosted on EC2) and host (chosen by URL).  ",
+  "body": "By William Guerrero\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
